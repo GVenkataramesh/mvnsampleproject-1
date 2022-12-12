@@ -1,1 +1,4 @@
-# mvnsampleproject-1
+KJAR Initial Content
+=============================
+
+Your project description here.
